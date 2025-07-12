@@ -63,32 +63,26 @@ I am 19 years old and currently work as a **Digital Forensics** and **Incident R
 - **eJPT V1 Perp** – Netriders.Academy
 
 I am also preparing for the following certifications:
-- **eCMAP, eCRE (Ready for Exam)**
-- **CHFI, CND, CIH (Ready for Exam)**
+- **eCIR (Ready for Exam)**
 
 ---
 
-## 🎥 Blog and YouTube Channel
+## 🎥 Blog 
 
-I regularly share cybersecurity insights, tutorials, and CTF challenge solutions on my blog and YouTube channel:
-- **Blog**: [@0xMr_Robot on Medium](https://medium.com/@0xMr_Robot)
-- **YouTube Channel**: [BlacKSilence12](https://www.youtube.com/channel/UCwDI0Z6QhpKDZdrkSV_0VAg)
+I regularly share cybersecurity insights, tutorials, and CTF challenge solutions on my blog :
+- **Blog**: [@0xgbreil on Medium]([https://medium.com/@0xMr_Robot](https://medium.com/@0xgbreil))
 
 ---
 
 ## 💡 Skills and Technologies
 
-- **Programming Languages**: Python, C, C++, C#, PowerShell, Bash, Assembly
+- **Programming Languages**: Python, C, C#, PowerShell, Bash
 - **Specialties**: 
-  - Malware Analysis & Reverse Engineering
   - Threat Intelligence & Threat Hunting
   - DFIR (Digital Forensics and Incident Response)
-  - Binary Exploitation (PWN)
   - Open-Source Intelligence (OSINT)
-  - EDR & Antivirus Evasion Techniques
 - **Tools & Technologies**: 
-  - **Reverse Engineering**: IDA Pro, Ghidra, x64dbg
-  - **Malware Analysis**: Cuckoo Sandbox, YARA, PEiD
+  - **DFIR (Digital Forensics and Incident Response)**: Autopsy, Volatility, Wireshark, FTK Imager, Magnet AXIOM, X-Ways Forensics, Plaso (log2timeline), Redline, CyberChef
   - **SOC Tools**: SIEM, Splunk, Wireshark
   - **CTF Platforms**: Hack The Box, TryHackMe, CyberTalents
 
@@ -96,12 +90,12 @@ I regularly share cybersecurity insights, tutorials, and CTF challenge solutions
 
 ## 📫 Contact Me
 
-Feel free to reach out for collaborations, project inquiries, or discussions about cybersecurity and malware analysis.
+Feel free to reach out for collaborations, project inquiries, or discussions about cybersecurity and DFIR (Digital Forensics and Incident Response) .
 
-- **Email**: manwelnueur87@gmail.com
-- **LinkedIn**: [Eslam Abbas](https://www.linkedin.com/in/eslam-abbas-20aa64213/)
-- **GitHub**: [Mr Robot](https://github.com/0xMr-Robot)
-- **Twitter**: [@Eslam_Abbas_1](https://twitter.com/Eslam_Abbas_1)
+- **Email**: mohammedgbreil70@gmail.com
+- **LinkedIn**: [Mohammed Gbreil](https://www.linkedin.com/in/0xgbreil/)
+- **GitHub**: [Mohammed Gbreil](https://github.com/0xgbreil)
+-  **Twitter**: [@0xgbreil](https://x.com/0xgbreil)
 
 ---
 
