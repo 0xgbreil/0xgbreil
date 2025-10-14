@@ -63,10 +63,17 @@ My dedication to practical cybersecurity education has led me to participate in 
 - [**Hands-On Introduction to KQL for Security Analysis**](https://mycourse.app/1fz0FOP3CD3huAIwc) – Blu Raven  
 - [**Student SOC Program Foundations Training**](https://drive.google.com/file/d/1l2mT6TvbCdHyzeRGZZqYHvtMDuJVyPWJ/view?usp=drive_link) – Microsoft  
 - [**eJPT V1 Perp**](https://drive.google.com/file/d/1oDbQw3DhQ-zHkIZA9mYPa893dhEfvJr0/view?usp=sharing) – Netriders Academy  
-
+- [**eCIR Prep**](https://netriders.academy/completion-certificate/?cert_hash=2ce2840ccad608d3) – Netriders Academy  
+- [**Cyber Threat Intelligence 101**](https://arcx.io/verify-certificate?id=9efc3f61cf80ce2b582cc437b9356ea8e4e3d69f&k=668fbb12415a476585b80b38b4bc3b7e) – arcX  
+- [**Introduction to Vulnerability Management**](https://elearning.securityblue.team/home/certificate/788660327) – Security Blue Team  
+- [**Introduction to Threat Hunting**](https://elearning.securityblue.team/home/certificate/159748390) – Security Blue Team  
+- [**Introduction to OSINT**](https://elearning.securityblue.team/home/certificate/751401199) – Security Blue Team  
 
 I am also preparing for the following certifications:
 - **eCIR (Ready for Exam)**
+- **CCD Certified CyberDefende (Ready for Exam)**
+- **OSCP Offensive Security Certified Professional**
+- **CHFI Computer Hacking Forensic Investigator Certification**
 
 ---
 
