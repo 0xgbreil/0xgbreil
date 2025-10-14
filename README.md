@@ -26,13 +26,6 @@ My dedication to practical cybersecurity education has led me to participate in 
 ---
 
 ## Hands-on Experience
-### Security Research Enthusiast – Bugcrowd
-
-  Explore real-world vulnerability disclosure and bug bounty programs.
-  
-  Practice using tools like Burp Suite, Nmap, and apply OWASP Top 10 concepts.
-  
-  Build knowledge in vulnerability analysis and responsible disclosure.
 
 ### DFIR CTF Player – CyberDefenders
 
@@ -52,19 +45,25 @@ My dedication to practical cybersecurity education has led me to participate in 
 
 
 
-## 📜 Certifications & Courses
+## 📜 Certifications & Courses  
 
-- **Introduction to Evidence Acquisition** – Cyber5W
-- **CyberTalents Certified Digital Forensics Examiner Specialist** – CyberTalents
-- **CyberTalents Certified Network Practitioner** – CyberTalents
-- **CyberTalents Certified Incident Responder** – CyberTalents
-- **CyberTalents Certified Windows Practitioner** – CyberTalents
-- **Introduction to Digital Forensics Certificate** – Security Blue Team
-- **CyberTalents Certified SOC Analyst** – CyberTalents
-- **The Essentials of Digital Forensics: From Basics to Practice** – Mahara Tech
-- **Introduction to Network Analysis** – Security Blue Team
-- **Introduction to PowerShell Certificate** – Security Blue Team
-- **eJPT V1 Perp** – Netriders.Academy
+- [**Introduction to Evidence Acquisition**](https://academy.cyber5w.com/certificates/ia70kwwozi) – Cyber5W  
+- [**CyberTalents Certified Digital Forensics Examiner Specialist**](https://cybertalents.com/certifications/5b571645-fdf5-454b-a1d5-d2913ceb300d) – CyberTalents  
+- [**CyberTalents Certified Network Practitioner**](https://cybertalents.com/certifications/17d2814e-45a2-423e-b6dd-205168b802dc) – CyberTalents  
+- [**CyberTalents Certified Incident Responder**](https://cybertalents.com/certifications/1014431e-08d3-43a8-9252-2d024783692d) – CyberTalents  
+- [**CyberTalents Certified Windows Practitioner**](https://cybertalents.com/certifications/6b449a8f-9e30-4847-a2a4-3f9d2b7fadab) – CyberTalents  
+- [**CyberTalents Certified SOC Analyst**](https://cybertalents.com/certifications/764a4bab-6069-4a07-b051-ddc6126a763b) – CyberTalents  
+- [**Introduction to Digital Forensics Certificate**](https://elearning.securityblue.team/home/certificate/885081265) – Security Blue Team  
+- [**Introduction to Network Analysis**](https://elearning.securityblue.team/home/certificate/887763339) – Security Blue Team  
+- [**Introduction to PowerShell Certificate**](https://elearning.securityblue.team/home/certificate/653167823) – Security Blue Team  
+- [**Introduction to Dark Web Operations**](https://elearning.securityblue.team/home/certificate/367408511) – Security Blue Team  
+- [**Blue Team Junior Analyst (BTJA)**](https://elearning.securityblue.team/home/certificate/699131417) – Security Blue Team  
+- [**The Essentials of Digital Forensics: From Basics to Practice**](https://drive.google.com/file/d/1mzYdae_vhmFfjJB2RYERRzZyYzpPjXlY/view?usp=sharing) – Mahara Tech  
+- [**Digital Forensics and Investigations**](https://drive.google.com/file/d/1e-R_I7UhUqAFdgcKdBXZpBrxNUgYI6LJ/view?usp=sharing) – Mahara Tech  
+- [**Hands-On Introduction to KQL for Security Analysis**](https://mycourse.app/1fz0FOP3CD3huAIwc) – Blu Raven  
+- [**Student SOC Program Foundations Training**](https://drive.google.com/file/d/1l2mT6TvbCdHyzeRGZZqYHvtMDuJVyPWJ/view?usp=drive_link) – Microsoft  
+- [**eJPT V1 Perp**](https://drive.google.com/file/d/1oDbQw3DhQ-zHkIZA9mYPa893dhEfvJr0/view?usp=sharing) – Netriders Academy  
+
 
 I am also preparing for the following certifications:
 - **eCIR (Ready for Exam)**
