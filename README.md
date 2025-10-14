@@ -86,22 +86,27 @@ I regularly share cybersecurity insights, tutorials, and CTF challenge solutions
 ### 💡 Skills & Tools
 
 **🔬 DFIR Tools:**  
-![Autopsy](https://img.shields.io/badge/-Autopsy-2E3440?style=for-the-badge)
-![Volatility](https://img.shields.io/badge/-Volatility-FF6F00?style=for-the-badge)
-![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=for-the-badge)
-![FTK Imager](https://img.shields.io/badge/-FTK%20Imager-3A3B3C?style=for-the-badge)
-![Magnet AXIOM](https://img.shields.io/badge/-Magnet%20AXIOM-1E90FF?style=for-the-badge)
+[![Autopsy](https://img.shields.io/badge/Autopsy-2E3440?style=for-the-badge)](https://github.com/0xgbreil) 
+[![Volatility](https://img.shields.io/badge/Volatility-FF6F00?style=for-the-badge)](https://github.com/0xgbreil) 
+[![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark)](https://github.com/0xgbreil) 
+[![FTK Imager](https://img.shields.io/badge/FTK%20Imager-3A3B3C?style=for-the-badge)](https://github.com/0xgbreil) 
+[![Magnet AXIOM](https://img.shields.io/badge/Magnet%20AXIOM-1E90FF?style=for-the-badge)](https://github.com/0xgbreil)
 
 **🧰 Programming:**  
-![Python](https://img.shields.io/badge/-Python-FFD43B?style=for-the-badge&logo=python&logoColor=black)
-![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+[![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=black)](https://github.com/0xgbreil) 
+[![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com/0xgbreil) 
+[![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)](https://github.com/0xgbreil)
 
-**📡 Platforms:**  
-![CyberTalents](https://img.shields.io/badge/-CyberTalents-000000?style=for-the-badge)
-![CyberDefenders](https://img.shields.io/badge/-CyberDefenders-2E2E2E?style=for-the-badge)
-![TryHackMe](https://img.shields.io/badge/-TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red)
-![HackTheBox](https://img.shields.io/badge/-HackTheBox-111111?style=for-the-badge&logo=hackthebox&logoColor=green)
+**📡 Platforms & Profiles:**  
+[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/0xgbreil) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/0xgbreil/) 
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red)](https://tryhackme.com/p/gbreil) 
+[![CyberTalents](https://img.shields.io/badge/CyberTalents-111111?style=for-the-badge)](https://cybertalents.com/members/0xgbreil/profile) 
+[![CyberDefenders](https://img.shields.io/badge/CyberDefenders-2E2E2E?style=for-the-badge)](https://cyberdefenders.org/p/0xgbreil) 
+[![HackTheBox](https://img.shields.io/badge/HackTheBox-111111?style=for-the-badge&logo=hackthebox&logoColor=green)](https://app.hackthebox.com/profile/2056492) 
+[![Medium](https://img.shields.io/badge/Medium-00AB6C?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@0xgbreil) 
+[![X](https://img.shields.io/badge/X-%23FF0000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/0xgbreil)
+
 
 
 ## 📫 Contact Me
