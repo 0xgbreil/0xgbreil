@@ -25,37 +25,30 @@ My dedication to practical cybersecurity education has led me to participate in 
 
 ---
 
-## 🛡️ Professional Experience
+## Hands-on Experience
+### Security Research Enthusiast – Bugcrowd
 
-### Security Researcher - **Bugcrowd**
-- **Responsibilities**:
-  - Work as an independent security researcher on **Bugcrowd**, identifying and responsibly disclosing potential security vulnerabilities through bug bounty programs.  
-  - Utilize industry-standard methodologies such as the **OWASP Top 10**, and tools like **Burp Suite**, **Nmap**, and others for vulnerability assessment and penetration testing.
-- **Key Accomplishments**:
-  - Gained hands-on experience in **vulnerability analysis** and **penetration testing** by applying real-world methodologies in practical scenarios.  
-  - Developed strong skills in using professional security tools and interpreting their outputs effectively.  
-  - Contributed to improving the security posture of various platforms by following responsible disclosure practices.
+Explore real-world vulnerability disclosure and bug bounty programs.
 
-### DFIR CTF Player - **CyberDefenders** 
-- **Responsibilities**:
-  - Actively participate in **DFIR (Digital Forensics and Incident Response)** Capture the Flag (CTF) challenges hosted by **Cyber Defenders**.  
-  - Analyze various digital evidence types, including **forensic disk images**, **memory dumps**, and **network traffic**, to identify indicators and reconstruct incidents.  
-  - Utilize industry-standard tools such as **Autopsy**, **Volatility**, and **Wireshark** in practical scenarios.
-- **Key Accomplishments**:
-  - Gained hands-on experience in **digital forensics**, **malware analysis**, and **threat hunting**.  
-  - Strengthened problem-solving and analytical skills through solving real-world forensics challenges.  
-  - Contributed to technical write-ups for selected CTF challenges to support knowledge sharing and team learning.
+Practice using tools like Burp Suite, Nmap, and apply OWASP Top 10 concepts.
 
-### CTF Fighter  - **CyberTalents**
-- **Responsibilities**:
- - Active **CTF player** on **CyberTalents**, with a focus on **web exploitation**, **cryptography**, and **digital forensics**.  
- - Participate regularly in cybersecurity competitions to improve technical skills and stay updated with emerging threats and techniques.
-- **Key Accomplishments**:
-  - Built strong foundational and practical skills in multiple cybersecurity domains through competitive CTF environments.  
-  - Demonstrated continuous learning and adaptability by engaging in diverse challenge categories.  
-  - Fostered a problem-solving mindset and teamwork by collaborating with peers during team-based competitions.
+Build knowledge in vulnerability analysis and responsible disclosure.
 
----
+### DFIR CTF Player – CyberDefenders
+
+Participate in Digital Forensics & Incident Response (DFIR) challenges.
+
+Analyze disk images, memory dumps, and network traffic using Autopsy, Volatility, and Wireshark.
+
+Develop skills in malware analysis, incident investigation, and reporting.
+
+### CTF Competitor – CyberTalents
+
+Compete in Web, Crypto, and Forensics CTFs.
+
+Enhance problem-solving, teamwork, and technical skills.
+
+Gain hands-on experience through real-world style cybersecurity challenges.
 
 
 
