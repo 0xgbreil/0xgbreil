@@ -115,5 +115,16 @@ Feel free to reach out for collaborations, project inquiries, or discussions abo
 
 ---
 
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=0xgbreil&show_icons=true&theme=tokyonight" alt="stats" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=0xgbreil&theme=tokyonight" alt="streak" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=0xgbreil&theme=react-dark&hide_border=true&bg_color=0D1117&color=00FF88&line=00FF88&point=FFFFFF" alt="Activity Graph"/>
+</p>
+
 
 Thank you for visiting my GitHub! Check out my repositories for more insights into my work, projects, and contributions to the cybersecurity community.
