@@ -1,4 +1,13 @@
-# Mohamed Gbreil Mohamed - Digital Forensics & Incident Response (DFIR) & CTF Fighter 
+<h1 align="center">Hi, I'm Mohamed Gbreil </h1>
+
+<h2 align="center">Digital Forensics Investigator | Incident Responder</h2>
+
+<br>
+
+ <p align="center">
+    <a href="https://www.google.com.eg/search?q=0xgbreil"> <!-- Google Me -->
+      <img src="https://readme-typing-svg.herokuapp.com/?lines=Follow%20to%20get%20New%20Updates;Check%20my%20Popular%20Repositories&font=Bold%20Code&center=true&color=30F050&pause=2000"></a>
+ </p>
 
 Welcome to my GitHub profile! I am **Mohamed Gbreil Mohamed**, a passionate **Digital Forensics**, **Incident Response**, and **Capture the Flag (CTF) Player**. With a Bachelor's degree in Business management systems from Higher Institute of Computer Science and Technology administration in Sohag
 , I have dedicated myself to cybersecurity, focusing on **Digital Forensics**, **Incident Response**, and **CTF challenges**.
