@@ -83,19 +83,26 @@ I regularly share cybersecurity insights, tutorials, and CTF challenge solutions
 
 ---
 
-## 💡 Skills and Technologies
+### 💡 Skills & Tools
 
-- **Programming Languages**: Python, C, C#, PowerShell, Bash
-- **Specialties**: 
-  - Threat Intelligence & Threat Hunting
-  - DFIR (Digital Forensics and Incident Response)
-  - Open-Source Intelligence (OSINT)
-- **Tools & Technologies**: 
-  - **DFIR (Digital Forensics and Incident Response)**: Autopsy, Volatility, Wireshark, FTK Imager, Magnet AXIOM, X-Ways Forensics, Plaso (log2timeline), Redline, CyberChef
-  - **SOC Tools**: SIEM, Splunk, Wireshark
-  - **CTF Platforms**: Hack The Box, TryHackMe, CyberTalents
+**🔬 DFIR Tools:**  
+![Autopsy](https://img.shields.io/badge/-Autopsy-2E3440?style=for-the-badge)
+![Volatility](https://img.shields.io/badge/-Volatility-FF6F00?style=for-the-badge)
+![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=for-the-badge)
+![FTK Imager](https://img.shields.io/badge/-FTK%20Imager-3A3B3C?style=for-the-badge)
+![Magnet AXIOM](https://img.shields.io/badge/-Magnet%20AXIOM-1E90FF?style=for-the-badge)
 
----
+**🧰 Programming:**  
+![Python](https://img.shields.io/badge/-Python-FFD43B?style=for-the-badge&logo=python&logoColor=black)
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+
+**📡 Platforms:**  
+![CyberTalents](https://img.shields.io/badge/-CyberTalents-000000?style=for-the-badge)
+![CyberDefenders](https://img.shields.io/badge/-CyberDefenders-2E2E2E?style=for-the-badge)
+![TryHackMe](https://img.shields.io/badge/-TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red)
+![HackTheBox](https://img.shields.io/badge/-HackTheBox-111111?style=for-the-badge&logo=hackthebox&logoColor=green)
+
 
 ## 📫 Contact Me
 
