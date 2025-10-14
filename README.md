@@ -19,7 +19,9 @@ Welcome to my GitHub profile! I am **Mohamed Gbreil Mohamed**, a passionate **Di
 - **LinkedIn**: [Mohammed Gbreil](https://www.linkedin.com/in/0xgbreil/)
 - **Twitter**: [@0xgbreil](https://x.com/0xgbreil)
 
-I am 19 years old and currently work as a **Digital Forensics** and **Incident Response**, delivering hands-on training and creating challenges for CTF platforms. My commitment to practical cybersecurity education has led me to work with various organizations, including CyberDefenders and CyberTalents.
+I am a 19-year-old student passionate about Digital Forensics and Incident Response.
+I actively learn through hands-on practice, CTF challenges, and community projects.
+My dedication to practical cybersecurity education has led me to participate in platforms like CyberDefenders and CyberTalents, where I continue to develop my skills and share knowledge.
 
 ---
 
