@@ -28,27 +28,27 @@ My dedication to practical cybersecurity education has led me to participate in 
 ## Hands-on Experience
 ### Security Research Enthusiast – Bugcrowd
 
-Explore real-world vulnerability disclosure and bug bounty programs.
-
-Practice using tools like Burp Suite, Nmap, and apply OWASP Top 10 concepts.
-
-Build knowledge in vulnerability analysis and responsible disclosure.
+  Explore real-world vulnerability disclosure and bug bounty programs.
+  
+  Practice using tools like Burp Suite, Nmap, and apply OWASP Top 10 concepts.
+  
+  Build knowledge in vulnerability analysis and responsible disclosure.
 
 ### DFIR CTF Player – CyberDefenders
 
-Participate in Digital Forensics & Incident Response (DFIR) challenges.
-
-Analyze disk images, memory dumps, and network traffic using Autopsy, Volatility, and Wireshark.
-
-Develop skills in malware analysis, incident investigation, and reporting.
+  Participate in Digital Forensics & Incident Response (DFIR) challenges.
+  
+  Analyze disk images, memory dumps, and network traffic using Autopsy, Volatility, and Wireshark.
+  
+  Develop skills in malware analysis, incident investigation, and reporting.
 
 ### CTF Competitor – CyberTalents
 
-Compete in Web, Crypto, and Forensics CTFs.
-
-Enhance problem-solving, teamwork, and technical skills.
-
-Gain hands-on experience through real-world style cybersecurity challenges.
+  Compete in Web, Crypto, and Forensics CTFs.
+  
+  Enhance problem-solving, teamwork, and technical skills.
+  
+  Gain hands-on experience through real-world style cybersecurity challenges.
 
 
 
