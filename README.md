@@ -60,7 +60,7 @@ My dedication to practical cybersecurity education has led me to participate in 
 - [**Blue Team Junior Analyst (BTJA)**](https://drive.google.com/file/d/17CHc_rjol6rQAiRMFt8o-h7XW_jbvgg9/view?usp=sharing) – Security Blue Team  
 - [**The Essentials of Digital Forensics: From Basics to Practice**](https://drive.google.com/file/d/1mzYdae_vhmFfjJB2RYERRzZyYzpPjXlY/view?usp=sharing) – Mahara Tech  
 - [**Digital Forensics and Investigations**](https://drive.google.com/file/d/1e-R_I7UhUqAFdgcKdBXZpBrxNUgYI6LJ/view?usp=sharing) – Mahara Tech  
-- [**Hands-On Introduction to KQL for Security Analysis**](https://mycourse.app/1fz0FOP3CD3huAIwc) – Blu Raven  
+- [**Hands-On Introduction to KQL for Security Analysis**](https://drive.google.com/file/d/1rB1zZLC1n_VB5a9SlUeIv5ZGDvyAmTV1/view?usp=sharing) – Blu Raven  
 - [**Student SOC Program Foundations Training**](https://drive.google.com/file/d/1l2mT6TvbCdHyzeRGZZqYHvtMDuJVyPWJ/view?usp=drive_link) – Microsoft  
 - [**eJPT V1 Perp**](https://drive.google.com/file/d/1oDbQw3DhQ-zHkIZA9mYPa893dhEfvJr0/view?usp=sharing) – Netriders Academy  
 - [**eCIR Prep**](https://netriders.academy/completion-certificate/?cert_hash=2ce2840ccad608d3) – Netriders Academy  
