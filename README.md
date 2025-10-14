@@ -53,11 +53,11 @@ My dedication to practical cybersecurity education has led me to participate in 
 - [**CyberTalents Certified Incident Responder**](https://cybertalents.com/certifications/1014431e-08d3-43a8-9252-2d024783692d) – CyberTalents  
 - [**CyberTalents Certified Windows Practitioner**](https://cybertalents.com/certifications/6b449a8f-9e30-4847-a2a4-3f9d2b7fadab) – CyberTalents  
 - [**CyberTalents Certified SOC Analyst**](https://cybertalents.com/certifications/764a4bab-6069-4a07-b051-ddc6126a763b) – CyberTalents  
-- [**Introduction to Digital Forensics Certificate**](https://elearning.securityblue.team/home/certificate/885081265) – Security Blue Team  
-- [**Introduction to Network Analysis**](https://elearning.securityblue.team/home/certificate/887763339) – Security Blue Team  
-- [**Introduction to PowerShell Certificate**](https://elearning.securityblue.team/home/certificate/653167823) – Security Blue Team  
-- [**Introduction to Dark Web Operations**](https://elearning.securityblue.team/home/certificate/367408511) – Security Blue Team  
-- [**Blue Team Junior Analyst (BTJA)**](https://elearning.securityblue.team/home/certificate/699131417) – Security Blue Team  
+- [**Introduction to Digital Forensics Certificate**](https://drive.google.com/file/d/12UIsRn6eAdHCAlxcbObo3c12Q4aSF7aI/view?usp=sharing) – Security Blue Team  
+- [**Introduction to Network Analysis**](https://drive.google.com/file/d/10R4cWxhTmXSLNlz3xO7CiFLzhPdi_nNU/view?usp=sharing) – Security Blue Team  
+- [**Introduction to PowerShell Certificate**](https://drive.google.com/file/d/19Rs23ffBhebArmLInIJ5b1-Rad_gBKtY/view?usp=sharing) – Security Blue Team  
+- [**Introduction to Dark Web Operations**](https://drive.google.com/file/d/1jtqTA6dkGPF_2hgjgtmWsqCLo90EZuga/view?usp=sharing) – Security Blue Team  
+- [**Blue Team Junior Analyst (BTJA)**](https://drive.google.com/file/d/17CHc_rjol6rQAiRMFt8o-h7XW_jbvgg9/view?usp=sharing) – Security Blue Team  
 - [**The Essentials of Digital Forensics: From Basics to Practice**](https://drive.google.com/file/d/1mzYdae_vhmFfjJB2RYERRzZyYzpPjXlY/view?usp=sharing) – Mahara Tech  
 - [**Digital Forensics and Investigations**](https://drive.google.com/file/d/1e-R_I7UhUqAFdgcKdBXZpBrxNUgYI6LJ/view?usp=sharing) – Mahara Tech  
 - [**Hands-On Introduction to KQL for Security Analysis**](https://mycourse.app/1fz0FOP3CD3huAIwc) – Blu Raven  
@@ -65,9 +65,9 @@ My dedication to practical cybersecurity education has led me to participate in 
 - [**eJPT V1 Perp**](https://drive.google.com/file/d/1oDbQw3DhQ-zHkIZA9mYPa893dhEfvJr0/view?usp=sharing) – Netriders Academy  
 - [**eCIR Prep**](https://netriders.academy/completion-certificate/?cert_hash=2ce2840ccad608d3) – Netriders Academy  
 - [**Cyber Threat Intelligence 101**](https://arcx.io/verify-certificate?id=9efc3f61cf80ce2b582cc437b9356ea8e4e3d69f&k=668fbb12415a476585b80b38b4bc3b7e) – arcX  
-- [**Introduction to Vulnerability Management**](https://elearning.securityblue.team/home/certificate/788660327) – Security Blue Team  
-- [**Introduction to Threat Hunting**](https://elearning.securityblue.team/home/certificate/159748390) – Security Blue Team  
-- [**Introduction to OSINT**](https://elearning.securityblue.team/home/certificate/751401199) – Security Blue Team  
+- [**Introduction to Vulnerability Management**](https://drive.google.com/file/d/1rlL6ZG1nJqHC3wywb2ztOv5S3NAwyXHP/view?usp=sharing) – Security Blue Team  
+- [**Introduction to Threat Hunting**](https://drive.google.com/file/d/1rlL6ZG1nJqHC3wywb2ztOv5S3NAwyXHP/view?usp=sharing) – Security Blue Team  
+- [**Introduction to OSINT**](https://drive.google.com/file/d/1CN2mFor3l1pK7IWmu3dxSN9p6xmLh12t/view?usp=sharing) – Security Blue Team  
 
 I am also preparing for the following certifications:
 - **eCIR (Ready for Exam)**
