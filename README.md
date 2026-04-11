@@ -66,7 +66,7 @@ My dedication to practical cybersecurity education has led me to participate in 
 - [**eCIR Prep**](https://netriders.academy/completion-certificate/?cert_hash=2ce2840ccad608d3) – Netriders Academy  
 - [**Cyber Threat Intelligence 101**](https://arcx.io/verify-certificate?id=9efc3f61cf80ce2b582cc437b9356ea8e4e3d69f&k=668fbb12415a476585b80b38b4bc3b7e) – arcX  
 - [**Introduction to Vulnerability Management**](https://drive.google.com/file/d/1rlL6ZG1nJqHC3wywb2ztOv5S3NAwyXHP/view?usp=sharing) – Security Blue Team  
-- [**Introduction to Threat Hunting**](https://drive.google.com/file/d/1rlL6ZG1nJqHC3wywb2ztOv5S3NAwyXHP/view?usp=sharing) – Security Blue Team  
+- [**Introduction to Threat Hunting**](https://drive.google.com/file/d/1L7hKllXczG_qLQr1Qq0PxaUJ5TxB-sf-/view?usp=sharing) – Security Blue Team  
 - [**Introduction to OSINT**](https://drive.google.com/file/d/1CN2mFor3l1pK7IWmu3dxSN9p6xmLh12t/view?usp=sharing) – Security Blue Team  
 
 I am also preparing for the following certifications:
