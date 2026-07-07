@@ -9,7 +9,7 @@
       <img src="https://readme-typing-svg.herokuapp.com/?lines=Follow%20to%20get%20New%20Updates;Check%20my%20Popular%20Repositories&font=Bold%20Code&center=true&color=30F050&pause=2000"></a>
  </p>
 
-Welcome to my GitHub profile! I am **Mohamed Gbreil Mohamed**, a passionate **Digital Forensics**, **Incident Response**, and **Capture the Flag (CTF) Player**. With a Bachelor's degree in Business management systems from Higher Institute of Computer Science and Technology administration in Sohag
+Welcome to my GitHub profile! I am **Mohamed Gbreil Mohamed**, a passionate **Digital Forensics**, **Incident Response**, and **Capture the Flag (CTF) Player**. With a Bachelor's degree in Business management systems from Higher Institute of Computer Science and Technology administration 
 , I have dedicated myself to cybersecurity, focusing on **Digital Forensics**, **Incident Response**, and **CTF challenges**.
 
 ## 🔰 Overview
