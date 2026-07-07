@@ -1,5 +1,5 @@
 ## 0xgbreil | Mohammed Gbreil
-Just another person who's passionate about digital forensics, incident response, threat hunting, and blue team operations, dedicated to continuously improving as a DFIR and SOC analyst.
+Just someone passionate about digital forensics, incident response, threat hunting, and blue team operations, always learning and working toward becoming a better DFIR and SOC analyst.
 
 ### 🎥 Blog 
 
