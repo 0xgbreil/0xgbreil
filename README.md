@@ -16,7 +16,13 @@ I regularly share cybersecurity insights, tutorials, and CTF challenge solutions
 [![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark)](https://github.com/0xgbreil) 
 [![FTK Imager](https://img.shields.io/badge/FTK%20Imager-3A3B3C?style=for-the-badge)](https://github.com/0xgbreil) 
 [![Magnet AXIOM](https://img.shields.io/badge/Magnet%20AXIOM-1E90FF?style=for-the-badge)](https://github.com/0xgbreil)
-
+[![KAPE](https://img.shields.io/badge/KAPE-8A2BE2?style=for-the-badge)](https://github.com/0xgbreil)
+[![Velociraptor](https://img.shields.io/badge/Velociraptor-6A1B9A?style=for-the-badge)](https://github.com/0xgbreil)
+[![Plaso](https://img.shields.io/badge/Plaso-2E7D32?style=for-the-badge)](https://github.com/0xgbreil)
+[![Hayabusa](https://img.shields.io/badge/Hayabusa-D32F2F?style=for-the-badge)](https://github.com/0xgbreil)
+[![Chainsaw](https://img.shields.io/badge/Chainsaw-B71C1C?style=for-the-badge)](https://github.com/0xgbreil)
+[![Eric Zimmerman Tools](https://img.shields.io/badge/Eric%20Zimmerman%20Tools-455A64?style=for-the-badge)](https://github.com/0xgbreil)
+[![X-Ways](https://img.shields.io/badge/X--Ways-263238?style=for-the-badge)](https://github.com/0xgbreil)
 **🧰 Programming:**  
 [![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=black)](https://github.com/0xgbreil) 
 [![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com/0xgbreil) 
