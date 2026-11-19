@@ -35,7 +35,7 @@ I regularly share cybersecurity insights, tutorials, and CTF challenge solutions
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red)](https://tryhackme.com/p/gbreil) 
 [![CyberTalents](https://img.shields.io/badge/CyberTalents-111111?style=for-the-badge)](https://cybertalents.com/members/0xgbreil/profile) 
 [![CyberDefenders](https://img.shields.io/badge/CyberDefenders-2E2E2E?style=for-the-badge)](https://cyberdefenders.org/p/0xgbreil) 
-[![HackTheBox](https://img.shields.io/badge/HackTheBox-111111?style=for-the-badge&logo=hackthebox&logoColor=green)](https://app.hackthebox.com/profile/2056492) 
+[![HackTheBox](https://img.shields.io/badge/HackTheBox-111111?style=for-the-badge&logo=hackthebox&logoColor=green)](https://profile.hackthebox.com/profile/019f9f71-2db4-7052-94bb-4df9a4451b31?utm_medium=copy_url) 
 [![Medium](https://img.shields.io/badge/Medium-00AB6C?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@0xgbreil) 
 [![X](https://img.shields.io/badge/X-%23FF0000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/0xgbreil)
 
